@@ -7,7 +7,7 @@
 
   .illustration {
     height: 16rem;
-    margin: 0 3rem;
+    max-width: 100%;
 
     @media (max-width: map-get($grid-breakpoints, "lg")) {
       height: 12rem;
