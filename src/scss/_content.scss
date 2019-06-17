@@ -1,0 +1,21 @@
+.content {
+  text-align: justify;
+
+  h2 {
+    padding: 3rem 0;
+  }
+
+  .illustration {
+    height: 16rem;
+    margin: 0 3rem;
+
+    @media (max-width: map-get($grid-breakpoints, "lg")) {
+      height: 12rem;
+    }
+  }
+
+  .wave {
+    height: auto;
+    width: 100%;
+  }
+}

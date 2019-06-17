@@ -1,0 +1,21 @@
+html,
+body {
+  min-height: 100%;
+}
+
+.header {
+  height: 100%;
+  padding: 5rem 0;
+  text-align: justify;
+
+  h1.home {
+    font-size: 22pt;
+    font-weight: 300;
+    line-height: 3rem;
+    margin: 4rem 0;
+  }
+
+  .illustration {
+    width: 100%;
+  }
+}

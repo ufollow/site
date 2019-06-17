@@ -1,0 +1,31 @@
+.error-404 {
+  background: $ocean;
+  display: flex;
+  flex: 1;
+  flex-flow: column;
+  color: $pink;
+  width: 100%;
+
+  svg {
+    fill: $pink;
+    width: 12rem;
+    object-fit: scale-down;
+  }
+
+  .sky {
+    background: $white;
+    width: 100%;
+  }
+
+  .ocean {
+    background: url('/img/404/bubbles.svg');
+    flex: 1;
+    width: 100%;
+  }
+
+  .island {
+    position: absolute;
+    top: -260px;
+    right: 20px;
+  }
+}
