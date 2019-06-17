@@ -7,6 +7,9 @@
     "build-sass": "gulp build-sass",
     "build": "gulp build"
   },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
