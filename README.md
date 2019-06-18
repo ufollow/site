@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ufollow.io/img/ufollow.svg" alt="ufollow" width="128">
+  <img src="https://ufollow.io/img/u.svg" alt="ufollow" width="64">
   <p align="center">
     Plataforma de gestão de marketing
     <br>
@@ -11,7 +11,7 @@
 
 ## Sobre o site
 
-O site da está hospedado no GitHub pages.
+O site da ufollow está hospedado no GitHub pages.
 
 ### Como executar localmente
 
