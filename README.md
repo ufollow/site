@@ -11,7 +11,7 @@
 
 ## Sobre o site
 
-O site da está hospedado no GitHub pages.
+O site da ufollow está hospedado no GitHub pages.
 
 ### Como executar localmente
 
