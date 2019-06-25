@@ -4,7 +4,7 @@ set -e
 git checkout master
 git pull origin master
 rm -rf dist
-npm run i
+npm install
 npm run build
 git checkout gh-pages
 cp -r dist/* .
