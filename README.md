@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ufollow.io/img/u.svg" alt="ufollow" width="64">
+  <img src="https://ufollow.io/img/u.svg" alt="ufollow" width="48">
   <p align="center">
     Plataforma de gestão de marketing
     <br>
@@ -17,7 +17,7 @@ O site da ufollow está hospedado no GitHub pages.
 
 1. Instale o [Node.js](https://nodejs.org/)
 2. Execute o comando `npm install` para instalar as dependências
-3. Execute o comando `npm run serve` para iniciar o servidor em `http://localhost:8888`
+3. Execute o comando `npm start` para iniciar o servidor em `http://localhost:8888`
 
 ## Licença
 
