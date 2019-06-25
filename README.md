@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ufollow.io/img/u.svg" alt="ufollow" width="64">
+  <img src="https://ufollow.io/img/u.svg" alt="ufollow" width="48">
   <p align="center">
     Plataforma de gestão de marketing
     <br>
